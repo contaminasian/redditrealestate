@@ -7,6 +7,7 @@ pd.set_option('display.max_columns', None)
 
 # Future Scope
 ## If output was excel, could have set column widths to match the OUTPUt CSV file
+## Learned that leading spaces will get wiped out by AI for things like '    Total Poplulation'
 ## Visulizations, I like to use R for exploratory things
 ## Thanks for the challenge!
 
